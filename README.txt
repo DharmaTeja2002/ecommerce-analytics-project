@@ -15,7 +15,7 @@ The dataset simulates a real-world e-commerce platform, including:
 * User events (view, click, cart, purchase)
 * Transactions
 
-
+Dataset Source: https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset
 
 🎯 Objectives
 
